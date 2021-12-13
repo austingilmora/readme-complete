@@ -21,6 +21,7 @@
   To use this app, all you need to do is go into the file with Git Bash and run 'node index' and you're on your way to creating a professional ReadMe.
   It's all detailed in the video below:
     https://watch.screencastify.com/v/clVYUrjbnCuotPbFfxi2
+    Also, for an example of the ReadMe, go to the dist folder and see the ReadMe I made on this video.
   
 ## Contributing
   Just one rule: Don't be evil.

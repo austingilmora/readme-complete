@@ -16,7 +16,7 @@
  
   ## Description:
   
-   This is an awesome
+   This is an awesome app.
   
   ## Table of Contents
 
